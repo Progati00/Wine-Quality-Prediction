@@ -1,1 +1,1 @@
-# Wine-Quality-Prediction
+# Machine learning-based wine quality prediction using chemical attributes. This project includes exploratory data analysis (EDA), feature correlation visualization, and classification using Random Forest, SVM, and SGD. Achieved 69.87% accuracy with Random Forest, identified key features (alcohol, sulphates, volatile acidity), and evaluated models with accuracy, classification reports, and confusion matrices.
